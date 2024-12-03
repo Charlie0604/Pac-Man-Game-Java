@@ -1,0 +1,19 @@
+# Gradle build directory
+/build/
+/.gradle/
+
+# IntelliJ IDEA files
+*.iml
+.idea/
+
+# macOS metadata
+.DS_Store
+
+# Windows metadata
+Thumbs.db
+
+# Log files
+*.log
+
+# Compiled files
+*.class
